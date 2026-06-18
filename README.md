@@ -1,5 +1,5 @@
 
-## Loans
+## Loan
 Loan Analysis Dashboard - Power BI Project
 
 Project Overview
